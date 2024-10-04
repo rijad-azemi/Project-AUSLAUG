@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7pYwPXx3GGw=",
+  "dgSpecHash": "oACyq4AcGhg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\Project-AUSLAUG.ServiceDefaults\\Project-AUSLAUG.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\src\\backend\\Project-AUSLAUG.ServiceDefaults\\Project-AUSLAUG.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rijad\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\rijad\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

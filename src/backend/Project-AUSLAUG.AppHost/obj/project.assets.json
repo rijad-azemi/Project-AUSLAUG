@@ -2704,11 +2704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\Project-AUSLAUG.AppHost\\Project-AUSLAUG.AppHost.csproj",
+      "projectUniqueName": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\src\\backend\\Project-AUSLAUG.AppHost\\Project-AUSLAUG.AppHost.csproj",
       "projectName": "Project-AUSLAUG.AppHost",
-      "projectPath": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\Project-AUSLAUG.AppHost\\Project-AUSLAUG.AppHost.csproj",
+      "projectPath": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\src\\backend\\Project-AUSLAUG.AppHost\\Project-AUSLAUG.AppHost.csproj",
       "packagesPath": "C:\\Users\\rijad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\Project-AUSLAUG.AppHost\\obj\\",
+      "outputPath": "C:\\Users\\rijad\\L1on_Repos\\Project-AUSLAUG\\src\\backend\\Project-AUSLAUG.AppHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

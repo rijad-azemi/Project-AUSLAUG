@@ -8,5 +8,5 @@ namespace Projects;
 public class Project_AUSLAUG_AppHost
 {
     private Project_AUSLAUG_AppHost() { }
-    public static string ProjectPath => """C:\Users\rijad\L1on_Repos\Project-AUSLAUG\Project-AUSLAUG.AppHost""";
+    public static string ProjectPath => """C:\Users\rijad\L1on_Repos\Project-AUSLAUG\src\backend\Project-AUSLAUG.AppHost""";
 }
